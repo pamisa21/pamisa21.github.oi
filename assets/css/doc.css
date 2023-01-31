@@ -1,0 +1,51 @@
+h3{color: #44030e;
+}
+
+body{
+	background: #79838d;
+
+	color: black;}
+
+table, th, td {
+  border: 2px solid;
+  border-collapse: collapse;
+  
+  align-items: rigth;
+  position: relative;
+  margin: auto;
+  font-size:15px;
+  padding-top: 10px;
+  background-color: #84adea;
+
+  
+
+}
+
+body{
+	text-align: center;
+
+}
+table, th{
+	text-transform:uppercase;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	color: #44030e;
+}
+
+th {
+  background-color: #4b749f;
+  color: white;
+  
+
+}
+th:hover {background-color: black;}
+td:hover {
+	background-color:blue;
+}
+td{
+	color: black;
+	align-items: center;
+	padding-left: 10px;
+}
